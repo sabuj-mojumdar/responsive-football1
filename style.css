@@ -151,6 +151,8 @@ header{
 .sticky h1{
     font-weight: 700;
     font-size: 30px;
+    padding-bottom: 15px;
+    line-height: 35px;
 }
 .sticky p{
     text-align: justify;
